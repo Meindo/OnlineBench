@@ -15,5 +15,5 @@ Error code #0002 means that theres no internet connection found on the pc it has
 To fix it the computer HAS to connect to the internet to test the speed of the connection.
 
 
-#Note To Ookla
+#NoteToOokla
 OnlineBench is an opensource script that improves the Speedtest CLI. It doesnt redistribute ANY files other than the script. It does require the files to be present, but since im only making the script run on-top of the non edited file it is in no direct contact with speedtest and/or other trademarked files/names. Software made by ookla is directly downloaded from ookla themselfs and my software is directly downloaded from minigameking.net/onlinebench. These statments can also be found on my websites download page of OnlineBench.
