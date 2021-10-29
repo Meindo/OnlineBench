@@ -1,7 +1,7 @@
 # OnlineBench
-OnlineBench is a simple internet speed benchmark based on speedtest.net CLI by Ookla
+OnlineBench is a simple internet speed benchmark based on speedtest.net CLI by Ookla.
 Please refer to https://minigameking.net/onlinebench/ to download and how to use.
-Version 1.0. Requires Speedtest.net's windows CLI version 1.0.0 to work
+Version 1.0. Requires Speedtest.net's windows CLI version 1.0.0 to work.
 This is NOT a standalone benchmark and needs to have the files of the CLI in the same directory as the batchfile.
 
 # ErrorCodes
